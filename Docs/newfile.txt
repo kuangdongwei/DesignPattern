@@ -1,0 +1,6 @@
+#writeen by fileproperties
+#Wed May 22 11:38:18 CST 2019
+day=22
+name=kuangdongwei
+year=2019
+month=05
